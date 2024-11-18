@@ -20,6 +20,7 @@
 * [Flash mode](features-highlight/flash-mode.md)
 * [Evidences from clipboard](features-highlight/evidences-from-clipboard.md)
 * [Library upgrade](features-highlight/library-upgrade.md)
+* [Mapping explorer](features-highlight/graph-explorer.md)
 * [SSO](features-highlight/sso/README.md)
   * [Microsoft Entra ID](features-highlight/sso/microsoft-entra-id.md)
   * [Okta](features-highlight/sso/okta.md)
