@@ -4,6 +4,8 @@ description: Community supported content
 
 # 🌐 External resources
 
+## Live sessions
+
 \
 
 
@@ -16,4 +18,6 @@ description: Community supported content
 \
 \
 
+## Blogs
 
+- https://doc.quercylibre.fr/Securité/CISO%20Assistant/01-ciso-assistant/
