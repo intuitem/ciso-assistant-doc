@@ -20,4 +20,4 @@ description: Community supported content
 
 ## Blogs
 
-- https://doc.quercylibre.fr/Securité/CISO%20Assistant/01-ciso-assistant/
+- [Blog Quercylibre](https://doc.quercylibre.fr/Securité/CISO%20Assistant/01-ciso-assistant/)
