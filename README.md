@@ -26,6 +26,8 @@ CISO Assistant is open source and the code is available on GitHub. Just follow t
 
 {% embed url="https://intuitem.com" %}
 
+{% embed url="https://discord.gg/qvkaMdQ8da" %}
+
 ##
 
 ## Get Started
