@@ -66,5 +66,7 @@ We have simplified the steps of testing custom frameworks starting version 1.3.4
 Testing your custom framework
 {% endembed %}
 
+## NEW: Full guide (French)
 
+{% embed url="https://www.youtube.com/live/Ze8fp4_F0I4" %}
 
