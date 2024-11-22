@@ -26,6 +26,7 @@
   * [Okta](features-highlight/sso/okta.md)
   * [Keycloak](features-highlight/sso/keycloak.md)
   * [Google Workplace](features-highlight/sso/google-workplace.md)
+* [Setting up Multi-Factor Authentication (MFA)](features-highlight/setting-up-multi-factor-authentication-mfa.md)
 
 ## Model
 
