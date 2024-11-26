@@ -18,3 +18,25 @@ In docker-based environment:\
 
 and you should get a prompt now 😉
 
+
+
+### Random issues after upgrading&#x20;
+
+
+
+In some rare cases, the migration of database schemas can take longer than expected or fail silently. First thing to check is the backend container logs:
+
+```
+docker compose logs backend
+```
+
+Make sure you share these information if you're reporting an issue on Discord or the Support portal.
+
+
+
+If you want to trigger the migration to make sure that all increments have been properly applied:
+
+```
+docker compose exec backend poetry run python manage.py migrate
+```
+
