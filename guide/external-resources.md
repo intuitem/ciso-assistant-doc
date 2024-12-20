@@ -6,8 +6,11 @@ description: Community supported content
 
 ## Live sessions
 
-\
+\\
 
+
+
+{% embed url="https://www.youtube.com/watch?v=Ze8fp4_F0I4" %}
 
 {% embed url="https://www.youtube.com/live/xZByaiWxvUU" %}
 
@@ -16,8 +19,8 @@ description: Community supported content
 {% embed url="https://youtu.be/pHsz7Tclw68" %}
 
 \
-\
+\\
 
 ## Blogs
 
-- [Blog Quercylibre](https://doc.quercylibre.fr/Securité/CISO%20Assistant/01-ciso-assistant/)
+* [Blog Quercylibre](https://doc.quercylibre.fr/Securit%C3%A9/CISO%20Assistant/01-ciso-assistant/)
