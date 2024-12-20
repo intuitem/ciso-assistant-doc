@@ -34,6 +34,10 @@ X-rays is a CISO Assistant tool which will be detailed in [extra-tools.md](extra
 
 ## Calendar
 
+{% hint style="warning" %}
+Calendar page has been moved to the "Operations" section
+{% endhint %}
+
 An integrated calendar to track the ETA of **upcoming/expired** applied controls or risk acceptances.
 
 <figure><img src="../.gitbook/assets/screenshot-2024-03-19-14-50-56.png" alt=""><figcaption></figcaption></figure>
