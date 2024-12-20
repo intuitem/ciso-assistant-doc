@@ -6,6 +6,10 @@ description: Some useful tools for following up assessments
 
 ## X-rays
 
+{% hint style="warning" %}
+X-rays page has been moved to the "Operations" section
+{% endhint %}
+
 X-rays is a very useful page to detect **inconsistencies** across your assessments for each project. There are 3 type of reports:
 
 * **info**: advice or reminder for status and relevant empty fields
@@ -18,9 +22,13 @@ X-rays is a very useful page to detect **inconsistencies** across your assessmen
 
 ## Scoring Assistant
 
+{% hint style="warning" %}
+Scoring Assistant page has been moved to the "Risk" section
+{% endhint %}
+
 Trouble assessing your risk ? :thinking:
 
-Based on [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP\_Risk\_Rating\_Methodology), scoring assistant is here to help you determine the risk level for your scenario. Choose between **technical** or **business** impact and select the appropriate answers to the questions.
+Based on [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology), scoring assistant is here to help you determine the risk level for your scenario. Choose between **technical** or **business** impact and select the appropriate answers to the questions.
 
 <figure><img src="../.gitbook/assets/screenshot-2024-03-19-14-15-23.png" alt=""><figcaption><p>Score assistant</p></figcaption></figure>
 
