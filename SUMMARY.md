@@ -47,6 +47,7 @@
 * [Setting up mailer](deployment/setting-up-mailer.md)
 * [Updating your local instance](deployment/updating-your-local-instance.md)
 * [Helm Chart](deployment/helm-chart.md)
+* [Special cases](deployment/special-cases.md)
 
 ## ✨ Customization
 
