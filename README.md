@@ -18,7 +18,13 @@ coverY: 0
 
 ## An open-source GRC tool
 
-CISO Assistant is open source and the code is available on GitHub. Just follow the instructions to deploy  it yourself or go to our website to request a cloud trial instance. You can read the [full article](https://intuitem.com/we-are-going-open-source/) about our switch.
+CISO Assistant is open source and the code is available on GitHub. Just follow the instructions to deploy it yourself or go to our website to request a cloud trial instance. You can read the [full article](https://intuitem.com/we-are-going-open-source/) about our switch.
+
+
+
+### About the SaaS and PRO plan
+
+{% embed url="https://intuitem.com/pro/" %}
 
 ## Quick links
 
@@ -33,7 +39,6 @@ CISO Assistant is open source and the code is available on GitHub. Just follow t
 ## Get Started
 
 In a hurry? checkout the [🌐 External resources](guide/external-resources.md) for overviews in English and French 🤗
-
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
