@@ -6,6 +6,14 @@ description: Community supported content
 
 ## Live sessions
 
+
+
+{% embed url="https://youtube.com/live/YMDQC9EU0gk" %}
+
+
+
+
+
 {% embed url="https://www.youtube.com/watch?v=Ze8fp4_F0I4" %}
 🇨🇵 French session
 {% endembed %}
