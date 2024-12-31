@@ -10,6 +10,8 @@ description: Community supported content
 
 {% embed url="https://youtube.com/live/YMDQC9EU0gk" %}
 
+{% embed url="https://www.youtube.com/watch?v=fH4miyqZ42U" %}
+
 
 
 
