@@ -48,6 +48,7 @@
 * [Updating your local instance](deployment/updating-your-local-instance.md)
 * [Helm Chart](deployment/helm-chart.md)
 * [Special cases](deployment/special-cases.md)
+* [Upgrading a library](deployment/upgrading-a-library.md)
 
 ## ✨ Customization
 
