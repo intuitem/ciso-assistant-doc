@@ -54,6 +54,7 @@
 
 * [Getting your custom framework](customization/getting-your-custom-framework.md)
 * [CIS Controls](customization/cis-controls.md)
+* [Changing the language](customization/changing-the-language.md)
 
 ## Contributing
 
