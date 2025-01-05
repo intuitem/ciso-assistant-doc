@@ -9,7 +9,7 @@ description: >-
 ## Threat
 
 A threat is the potential cause of an incident that may result in a breach of information security or compromise business operations (ISO 27000). Threats are used to clarify the aim of a requirement or an applied control. They are informative, assessments can be realized without using them.\
-Threats are can be imported from a library, but you can create your own threats in the global domain or in a specific domain.
+Threats can be imported from a library, but you can create your own threats in the global domain or in a specific domain.
 
 ## Reference control
 
