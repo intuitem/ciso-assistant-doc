@@ -8,7 +8,7 @@ Let's say that you want to setup or experiment with CISO Assistant on a Network 
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Install a recent version of Docker on your remote server
 * Given that we are using TLS with Caddy, we need to have DNS entries and not IPs
@@ -16,7 +16,7 @@ Let's say that you want to setup or experiment with CISO Assistant on a Network 
 * Clone the repo, but don't run anything yet. **Edit** the `docker-compose.yml` file as follows:\
   (red is for deletion and green for addition); your diff should look like:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Five lines need to be edited. Save the file and move to the next step
 

@@ -15,7 +15,7 @@ description: >-
 
 1. Sign in to your account and navigate to 'My profile'
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 1. Select the 'Settings' button
 2. Look for the Security section and click 'Enable 2FA'
@@ -25,7 +25,7 @@ description: >-
     * Scan the QR code displayed on your screen
     * Alternatively, you can manually enter the provided secret code into your authenticator app
 
-    <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 4. Enter the 6-digit verification code shown in your authenticator app
 5. Click 'Enable 2FA' to complete the setup
 
@@ -46,7 +46,7 @@ After enabling MFA, you'll receive a set of recovery codes. These codes are cruc
 * Consider storing a copy both digitally (in a password manager) and physically (printed in a secure location)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ### Next Steps
 
