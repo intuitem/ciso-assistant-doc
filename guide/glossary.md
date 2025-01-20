@@ -40,5 +40,16 @@ icon: sparkle
 
 
 {% endtab %}
+
+{% tab title="Integration" %}
+| Concept | Explanation |
+| ------- | ----------- |
+| CLI     |             |
+| API     |             |
+|         |             |
+|         |             |
+
+
+{% endtab %}
 {% endtabs %}
 
