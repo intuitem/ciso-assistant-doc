@@ -12,7 +12,7 @@
 * [🔎 Overview](guide/overview.md)
 * [🧰 Extra tools](guide/extra-tools.md)
 * [🌐 External resources](guide/external-resources.md)
-* [Understanding mapping](guide/understanding-mapping.md)
+* [Understand mapping](guide/understand-mapping.md)
 
 ## Features highlight
 
