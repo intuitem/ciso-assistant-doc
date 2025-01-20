@@ -22,7 +22,22 @@ icon: sparkle
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Applied Controls" %}
+| Concept           | Explanation |
+| ----------------- | ----------- |
+| Reference control |             |
+| Applied control   |             |
+| Category          |             |
+| Function          |             |
+| Status            |             |
+| ETA               |             |
+| Due date          |             |
+| Start Date        |             |
+|                   |             |
+|                   |             |
+|                   |             |
+|                   |             |
+
 
 {% endtab %}
 {% endtabs %}
