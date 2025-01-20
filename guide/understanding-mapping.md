@@ -3,7 +3,7 @@ description: Main concepts of the mapping feature
 icon: diagram-sankey
 ---
 
-# Understanding mapping
+# Understand mapping
 
 One common challenge when dealing with audits is about being able to reuse your assessment on one framework to move to a different one. This commonly refered to as mapping or crosswalk between standards.
 
