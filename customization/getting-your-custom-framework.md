@@ -40,7 +40,7 @@ Implementation groups are an optional argument that can be used to create subset
 
 ### importing
 
-1. Open CISO Assistant. On the side menu, go to `Extra/Libraries` then to the `Libraries store` tab
+1. Open CISO Assistant. On the side menu, go to `Governance/Libraries` then to the `Libraries store` tab
 2. Scroll down to get to `Upload your own library` section and select your file.
 3. If the file is consistent and correct, you'll get a confirmation and it will get straight ahead to your imported frameworks under `Compliance/Frameworks` section
 
