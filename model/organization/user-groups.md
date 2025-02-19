@@ -16,8 +16,8 @@ Let's give some details on the 5 built-in roles:
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Administrator  | full access (except approval), and specifically management of domains, users and users rights                                     |
 | Domain manager | full access to selected domains (except approval), in particular managing rights for these domains. Read access to global objects |
-| Analyst        | read-write access to selected projects/domains. Read access to global and domain objects                                          |
-| Auditor        | read access to selected projects/domains                                                                                          |
+| Analyst        | read-write access to selected perimeters/domains. Read access to global and domain objects                                        |
+| Auditor        | read access to selected perimeters/domains                                                                                        |
 | Approver       | like reader, but with additional capability to approve risk acceptances                                                           |
 
 {% hint style="info" %}

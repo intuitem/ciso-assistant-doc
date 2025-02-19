@@ -8,7 +8,7 @@ description: Small tutorial to learn how to create your first compliance assessm
 How to create a compliance assessment
 {% endembed %}
 
-1. After creating the project, we'll have to import a **framework**, for example **ISO/IEC 27001:2022.**
+1. After creating the perimeter, we'll have to import a **framework**, for example **ISO/IEC 27001:2022.**
 2. Once it is imported, we can now create the **compliance assessment** (ISO/IEC 27001:2022 is auto-selected as it is the only imported framework).
 3. You can edit it if needed, or go directly into the assessment. Each **requirement** has a <mark style="color:purple;">To do</mark> status by default.
 4. Finally, we can select a requirement and start its assessment by adding applied controls or evidences and update its status to complete the progress bars.

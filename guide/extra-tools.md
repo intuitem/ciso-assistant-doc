@@ -10,7 +10,7 @@ description: Some useful tools for following up assessments
 X-rays page has been moved to the "Operations" section
 {% endhint %}
 
-X-rays is a very useful page to detect **inconsistencies** across your assessments for each project. There are 3 type of reports:
+X-rays is a very useful page to detect **inconsistencies** across your assessments for each perimeter. There are 3 type of reports:
 
 * **info**: advice or reminder for status and relevant empty fields
 * **warning**: potential errors to be determined by the user

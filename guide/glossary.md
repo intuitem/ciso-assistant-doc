@@ -11,7 +11,7 @@ icon: sparkle
 | Concept         | Explanation |
 | --------------- | ----------- |
 | Domain          |             |
-| Project         |             |
+| Perimeter       |             |
 | Audit           |             |
 | Risk Assessment |             |
 | Risk scenario   |             |

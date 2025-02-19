@@ -10,7 +10,7 @@ description: >-
 
 ## Risk assessment
 
-You can create risk assessments in your projects. A risk assessment encompasses:
+You can create risk assessments in your perimeters. A risk assessment encompasses:
 
 * risk identification, when you define your risk scenarios
 * risk analysis, when you assess the probability, impact and strength of knowledge for each scenario
