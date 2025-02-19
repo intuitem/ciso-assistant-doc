@@ -6,7 +6,7 @@ description: Manage your assessments over time
 
 ## Analytics
 
-The main page to drive your projects through time. You can focus on risk or compliance assessment with their respective tab or have a global view from the governance one.
+The main page to drive your projects through time. You can focus on risk orp compliance with their respective tabs or have a global view from the governance one.
 
 <figure><img src="../.gitbook/assets/screenshot-2024-03-20-16-13-24.png" alt=""><figcaption><p>Governance tab</p></figcaption></figure>
 
