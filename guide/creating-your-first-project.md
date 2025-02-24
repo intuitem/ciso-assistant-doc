@@ -7,7 +7,7 @@ description: >-
 # 🏗️ Creating your first perimeter
 
 {% hint style="warning" %}
-Perimeters where previously named "Projects", but this was misleading
+Perimeters were previously named "Projects", but this was misleading
 {% endhint %}
 
 {% embed url="https://www.loom.com/share/6eeaa92904dd48fb9dc2658a55f3e82a?sid=ca4ff41f-c6a3-46d0-a45a-1d8c8b341440" %}

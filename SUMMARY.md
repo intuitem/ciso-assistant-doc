@@ -45,6 +45,7 @@
 * [Prerequisites](deployment/prerequisites.md)
 * [Local](deployment/local.md)
 * [Remote/Virtualization](deployment/remote-virtualization.md)
+* [Deploy on a VPS](deployment/deploy-on-a-vps.md)
 * [Frequent questions](deployment/frequent-questions.md)
 * [Setting up mailer](deployment/setting-up-mailer.md)
 * [Updating your local instance](deployment/updating-your-local-instance.md)
