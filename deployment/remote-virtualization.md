@@ -4,6 +4,12 @@ description: Experimenting CISO Assistant through remote server or hypervisor
 
 # Remote/Virtualization
 
+
+
+{% hint style="warning" %}
+New: Use the config builder at the `config` folder of the repo for an interactive and reliable experience.
+{% endhint %}
+
 Let's say that you want to setup or experiment with CISO Assistant on a Network or Virtualized environment (eg. Hypervisor) on a remote host, for instance, to use with multiple users:
 
 
