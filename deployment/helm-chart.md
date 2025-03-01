@@ -4,6 +4,25 @@ description: instructions for Kubernetes installation with Helm Chart
 
 # Helm Chart
 
+### GH OCI registry
+
+1. Getting the values&#x20;
+
+```sh
+helm show values oci://ghcr.io/intuitem/helm-charts/ce/ciso-assistant > custom.yaml
+```
+
+2. customize as you see fit
+3. Install the chart
+
+```sh
+helm install ciso-assistant-release oci://ghcr.io/intuitem/helm-charts/ce/ciso-assistant -f custom.yaml
+```
+
+### Legacy
+
+
+
 Make sure to have Helm binary installed and switch to your cluster context.
 
 1. add the helm repository
