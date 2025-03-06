@@ -43,7 +43,8 @@ python make_config.py
 5. Follow the instructions and make sure to do the following:
 
 * select VM/Remote
-* Internet facing - yes
+* Internet facing and ACME ready - yes
+* Provide the FQDN you've set on your registrar
 * Port to use: 443
 
 It should look like something like this:
@@ -70,7 +71,7 @@ You can choose Traefik instead of Caddy using the config builder.
 
 
 
-### Notes
+### 👉 Notes
 
 * The generated file in the config directory will be named `docker-compose-custom.yml` For subsequent operations with compose, you'll need to specify it with `-f`
 * If you're running docker compose without the -f, it could conflict with the default one on the repository root directory.
