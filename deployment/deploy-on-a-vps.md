@@ -68,11 +68,22 @@ You can go back and update the docker-compose.yml according to your needs or res
 
 You can choose Traefik instead of Caddy using the config builder.
 
+
+
+### Notes
+
+* The generated file in the config directory will be named `docker-compose-custom.yml` For subsequent operations with compose, you'll need to specify it with `-f`
+* If you're running docker compose without the -f, it could conflict with the default one on the repository root directory.
+* If you're starting a production environment:
+  * make sure to disable the debug mode,
+  * have your docker-compose-custom renamed and stored out of the repo,
+  * have your db folder outside of the repo.
+
 ### Clean up
 
 <pre class="language-sh"><code class="lang-sh"><strong>cd config
 </strong># stop and remove containers
-docker compose rm -fs
+docker compose -f docker-compose-custom.yml rm -fs
 # delete the db and proxy config
 git clean -fdx .
 </code></pre>
