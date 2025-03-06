@@ -8,7 +8,7 @@ This setup aims to expose CISO Assistant on a VPS while using automated Let's En
 
 
 
-1. provision your VPS and make sure it has a public reachable IP
+1. provision your VPS and make sure it has a public reachable IP - make sure to have the [prerequisites.md](prerequisites.md "mention") mentioned on that page.
 2. Setup your DNS zone to point to the IP of your VPS (A record). Give it sometime to propagate (depends on the registrar). It's better to start with this once you get the IP to give it enough time for propagation.
 3. on the following I'm using ubuntu 24.04. So adjust the packages installation according to your OS
 4. ssh to your server and perform the following commands:
