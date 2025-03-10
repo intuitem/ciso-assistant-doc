@@ -14,6 +14,7 @@
 * [🌐 External resources](guide/external-resources.md)
 * [Understand mapping](guide/understanding-mapping.md)
 * [Glossary](guide/glossary.md)
+* [Data import wizard](guide/data-import-wizard.md)
 
 ## Features highlight
 
@@ -52,6 +53,7 @@
 * [Helm Chart](deployment/helm-chart.md)
 * [Special cases](deployment/special-cases.md)
 * [Upgrading a library](deployment/upgrading-a-library.md)
+* [Windows](deployment/windows.md)
 
 ## ✨ Customization
 
