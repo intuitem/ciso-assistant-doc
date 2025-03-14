@@ -50,3 +50,33 @@ If you want to trigger the migration to make sure that all increments have been 
 docker compose exec backend poetry run python manage.py migrate
 ```
 
+
+
+### Healthcheck fails during the installation
+
+
+
+most likely because the initialization took longer than expected. Make sure you provide the expected specs or tune the docker compose to give the app more time to finish the init phase.
+
+
+
+### Don't want / Can't run the init script
+
+
+
+The recommended pattern for a first local setup is to go with ./docker-compose.sh ;\
+In case you can't:
+
+
+
+Run
+
+```
+docker compose up -d
+```
+
+wait for the init to finish and then trigger the first user creation manually:
+
+```
+docker compose exec backend poetry run python manage.py createsuperuser
+```
