@@ -7,6 +7,18 @@ icon: desktop-arrow-down
 
 
 
+### New! Config Builder
+
+Customize the local deployment according to your needs:
+
+{% embed url="https://youtube.com/live/VpUzN6GJrcs" %}
+
+
+
+{% hint style="warning" %}
+Make sure to have Docker 27 or up. If you get an error about docker compose command not recognized, it's because your Docker version is old and not supported.
+{% endhint %}
+
 ## Docker compose
 
 
