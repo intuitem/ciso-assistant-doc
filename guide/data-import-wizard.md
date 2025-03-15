@@ -1,5 +1,6 @@
 ---
 description: '[Pro] guidelines on data import format'
+icon: diagram-previous
 ---
 
 # Data import wizard
@@ -78,6 +79,30 @@ Fields with (\*) are mandatory and don't have any supported fallback.&#x20;
 
 * status will default to `to_do`
 * csf\_function will default to `govern`
+
+
+
+## 📦 Perimeters
+
+
+
+#### Template
+
+{% file src="../.gitbook/assets/sample003.xlsx" %}
+
+#### Supported fields
+
+* ref\_id
+* name
+* description
+* domain
+* status
+  * `undefined`
+  * `in_design`
+  * `in_dev`
+  * `in_prod`
+  * `eol`
+  * `dropped`
 
 
 
