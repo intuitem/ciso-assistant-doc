@@ -93,7 +93,7 @@ Fields with (\*) are mandatory and don't have any supported fallback.&#x20;
 #### Supported fields
 
 * ref\_id
-* name
+* name\*
 * description
 * domain
 * status
@@ -149,6 +149,38 @@ The framework needs to be loaded and when clicking on it, you'll see a button to
 * The wizard will attempt to match based on the ref\_id and fallback to the urn otherwise. If none could be used, the row will be skipped.
 * name and description columns are not used but serve as an anchor point for reference.
 * Unassessable rows are skipped.
+
+## Findings followup (eg. pentest)
+
+
+
+### Template
+
+
+
+{% file src="../.gitbook/assets/sample004.xlsx" %}
+
+#### Supported fields
+
+
+
+* ref\_id
+* name\*
+* description
+* severity
+  * `low`
+  * `medium`
+  * `high`
+  * `critical`
+* status
+  * `identified`
+  * `confirmed`
+  * `dismissed`
+  * `assigned`
+  * `in_progress`
+  * `mitigated`
+  * `resolved`
+  * `deprecated`
 
 
 
