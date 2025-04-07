@@ -80,3 +80,28 @@ wait for the init to finish and then trigger the first user creation manually:
 ```
 docker compose exec backend poetry run python manage.py createsuperuser
 ```
+
+### "Payload too large" when uploading a file to the frontend
+
+
+
+By default, the `BODY_SIZE_LIMIT` environment variable is set to 20 MB in the frontend Dockerfile:
+
+```docker
+# frontend/Dockerfile
+
+ENV BODY_SIZE_LIMIT=20000000 
+```
+
+In order to upload larger files, this value must be increased. How to do so depends on you rmode of deployment. Here are relevant docs:
+
+* [https://docs.docker.com/compose/how-tos/environment-variables/set-environment-variables/](https://docs.docker.com/compose/how-tos/environment-variables/set-environment-variables/)
+* [https://helm.sh/docs/helm/helm\_env/](https://helm.sh/docs/helm/helm_env/)
+* [https://docs.docker.com/reference/cli/docker/container/run/#env](https://docs.docker.com/reference/cli/docker/container/run/#env)
+
+{% hint style="info" %}
+If you use helm, this value is overwritten by the `bodySizeLimit`  variable. Note the camel case here.
+{% endhint %}
+
+
+
