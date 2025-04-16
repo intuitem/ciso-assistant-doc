@@ -65,6 +65,12 @@ Fields with (\*) are mandatory and don't have any supported fallback.&#x20;
   * `on_hold`
   * `active`
   * `deprecated`
+* category
+  * `policy`
+  * `process`
+  * `technical`
+  * `physical`
+  * `procedure`
 * priority
   * integer from `1 to 4`
 * csf\_function
