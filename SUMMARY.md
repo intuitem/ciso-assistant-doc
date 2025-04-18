@@ -6,6 +6,8 @@
 
 * [Installation](guide/installation.md)
 * [Understanding decoupling](guide/understanding-decoupling.md)
+* [General tips](guide/general-tips.md)
+* [Journeys](guide/journeys.md)
 * [🏗️ Creating your first perimeter](guide/creating-your-first-project.md)
 * [✅ Creating your first Audit](guide/creating-your-first-audit.md)
 * [📊 Creating your first risk assessment](guide/creating-your-first-risk-assessment.md)
