@@ -1,3 +1,4 @@
+## Documentation has been merged with the main repo in the `docs` branch
 ---
 description: >-
   This is CISO Assistant documentation. You'll find advice on how to get
